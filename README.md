@@ -35,3 +35,6 @@ the app
             3)npm i https://github.com/erikflowers/weather-icons.git
             
     b) you might wanna contact a TA ;)
+
+
+Built following https://www.youtube.com/watch?v=IxuqmfO6p28&ab_channel=DailyTuition
