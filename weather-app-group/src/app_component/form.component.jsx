@@ -7,7 +7,7 @@ const Form = props => {
       <form onSubmit={props.loadweather}>
         <div>{props.error ? error() : ""}</div>
         <div className="row">
-          <div className="offset-md-2 center">
+          <div className="offset-md-4 center">
             <input
               type="text"
               className="form-control"
@@ -37,7 +37,7 @@ const Form = props => {
 const error = props => {
   return (
     <div className="alert alert-danger mx-5" role="alert">
-      Please Enter City and Country...!
+      Please Enter City !
     </div>
   );
 };
