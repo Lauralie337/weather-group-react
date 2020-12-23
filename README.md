@@ -1,13 +1,14 @@
 # weather-group-react
- Group 1 project: weather react app
+ Group 1's Weather App powered by React
+
  Members:
-        Ashley
-        Shawn
-        Sunu
-        Winter
-        Robin
-        Nick
-        Laura
+        Ashley,
+        Shawn,
+        Sunu,
+        Winter,
+        Robin,
+        Nick,
+        & Laura
 
 
 TO CLONE ME:
